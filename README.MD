@@ -29,9 +29,9 @@ TELEGRAM_TOKEN=    # Api do bot do telegra
 NEO_TOKEN=         # Api da neoWs
 MESSAGE=           # Mensagem padrão: (Algum asteroide oferece perigo ao planeta Terra na data de hoje?)
 ```
-
+apos configurar as variaveis:
 ```bash
-$ npx sequelize db:migrate
+$ yarn start
 ```
 
 
